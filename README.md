@@ -1,7 +1,5 @@
 # Cam-Hackers
 
-[![@anson_dz's Holopin board](https://holopin.io/api/user/board?user=anson_dz)](https://holopin.io/@anson_dz)
-
 Hack Cameras
 
 <h3> Mode Of Execution: </h3>
